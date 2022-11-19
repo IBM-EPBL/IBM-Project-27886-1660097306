@@ -1,6 +1,6 @@
 # IBM-Project-27886-1660097306
 # University Admit Eligibility Predictor
-<b> project web-link: <i>http://ibmsmart.pythonanywhere.com/home</i><br>
+<b> project web-link: <i>http://ibmsmart.pythonanywhere.com/home</i><br></b>
 <b> Team ID: PNT2022TMID28385 </b><br>
 <b> Team Members: Harinie A, Harshita Sharma, Agnes Preethi J, Akshaya S </b>
 # Abstract:
